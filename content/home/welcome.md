@@ -3,7 +3,7 @@ widget: hero
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
-title: Fudan ICS Lab
+title: Fudan Univ. ICS Lab
 hero_media: welcome.jpg
 design:
   columns: "1"
